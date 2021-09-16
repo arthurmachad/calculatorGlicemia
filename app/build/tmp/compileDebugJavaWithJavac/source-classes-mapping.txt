@@ -1,0 +1,4 @@
+com/example/taxaglicemica/BuildConfig.java
+ com.example.taxaglicemica.BuildConfig
+com/example/taxaglicemica/MainActivity.java
+ com.example.taxaglicemica.MainActivity
